@@ -1,0 +1,298 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>大学改变了一个人的什么_My blog</title>
+<!-- TemplateEndEditable -->
+<!--顶部幻灯片js-->
+<script src="../study/js/jquery-1.2.2.pack.js" type="text/javascript"></script>
+<script src="../study/js/accordion.js" type="text/javascript"></script>
+<script src="../study/js/cycle.js" type="text/javascript"></script>
+
+<script type=text/javascript>
+	<!--
+		// Accordion
+		jQuery().ready(function(){
+			jQuery('#serviceContent').accordion({
+			autoheight: false
+			});
+		});
+		// Cycle
+		$(function() {
+			$('#fW_Content').cycle({ 
+			fx:    'scrollLeft',
+			pager: '#fW_Controls'
+ 			});
+		});
+	//-->
+	</script>
+
+<script type="text/javascript">
+<!--
+
+jQuery(document).ready(function($) {
+      $('a[rel*=facebox]').facebox() 
+    })
+//-->
+</script>
+<link href="../img/style.css" rel="stylesheet" type="text/css" />
+
+
+<style type="text/css">
+<!--
+.STYLE2 {
+	color: #999999;
+	font-size: 14px;
+}
+.STYLE5 {
+	color: #666666;
+	font-size: 24px;
+}
+.STYLE7 {color: #666666}
+
+ .STYLE7 a {
+text-decoration:none;
+color:#666666;
+}
+.STYLE7 a:hover{
+text-decoration:none;
+color:#CCCCCC;
+}
+
+-->
+</style>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+
+
+<table width="100%" height="560" border="0" align="center" cellpadding="0" cellspacing="0"  class="table_top" >
+  <tr>
+    <td height="560" align="center" valign="top"  ><table width="950" height="94" border="0" cellpadding="0" cellspacing="1" style="margin:0">
+      <tr>
+        <td width="214" height="85" rowspan="2" align="left"><img src="../img/logo.png" /></td>
+        <td width="514" height="29">&nbsp;</td>
+        <td width="85"  class="table_top_1_wb"><a href="http://weibo.com/57pjh" target="_blank">@My微博</a></td>
+		<td width="46"  class="table_top_1_sc"><a onclick="window.external.addFavorite('#','纸屑青春-my_blog')">加收藏</a></td>
+        <td width="85"  class="table_top_1_sy"><a  onclick="var strHref=window.location.href;this.style.behavior='url(#default#homepage)';this.setHomePage('http://zhixieqingch.svfree.net/');">设为首页</a></td>
+        
+      </tr>
+      <tr>
+        <td colspan="4">&nbsp;</td>
+      </tr>
+    </table>
+      <table width="950" height="" border="0" align="center">
+        <tr>
+          
+          <td width="162">&nbsp;</td>
+          <td width="785" rowspan="3">&nbsp;</td>
+          <td width="111" rowspan="3">&nbsp;</td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td valign="top" class="dh" ><table width="93%" height="46%" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="24%" height="43">&nbsp;</td>
+              <td width="70" valign="middle"><div align="center"><a href="../index.html">首页</a></div></td>
+            </tr>
+            <tr>
+              <td height="19">&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td height="25">&nbsp;</td>
+              <td><div align="center"><a href="../xuexi.html">学习</a></div></td>
+            </tr>
+            <tr>
+              <td height="23">&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td height="29">&nbsp;</td>
+              <td><div align="center"><a href="../yule.html">娱乐</a></div></td>
+            </tr>
+            <tr>
+              <td height="146" rowspan="5">&nbsp;</td>
+              <td height="25">&nbsp;</td>
+            </tr>
+            <tr>
+              <td><div align="center"><a href="../riji.html">日记</a></div></td>
+            </tr>
+            <tr>
+              <td height="24">&nbsp;</td>
+            </tr>
+            <tr>
+              <td valign="middle"><div align="center"><a href="../about.html" target="_blank">关于</a></div></td>
+            </tr>
+            <tr>
+              <td height="46">&nbsp;</td>
+            </tr>
+          </table></td>
+        </tr>
+      </table>  </td>
+  </tr>
+</table>
+<table width="905" height="622" border="0" align="center" >
+  <tr>
+    <td width="195" rowspan="3" valign="top">
+	
+	
+	<table width="100%" border="0">
+      <tr>
+        <td height="222" colspan="2"><img src="../img/zc_top.jpg" width="194" height="222" /></td>
+      </tr>
+    </table>
+	
+	
+	
+	
+	
+	<table width="100%" border="0">
+      
+      <tr>
+        <td width="7%" height="28" align="right" valign="middle"><img src="../img/wz_t.gif" width="9" height="9" /></td>
+        <td width="93%" align="left" valign="middle" style="border-bottom:#fff 2px dashed;border-top:#fff 2px dashed;"><span class="STYLE7"><a href="../xuexi.html">网页美工学习设计经验</a></span></td>
+      </tr>
+      <tr>
+        <td height="21" align="right" valign="middle"><img src="../img/wz_t.gif" width="9" height="9" /></td>
+        <td height="21" align="left" valign="middle" style="border-bottom:#fff 2px dashed;"><span class="STYLE7" ><a href="../study/s2.html">大学改变了一个人的什么</a></span></td>
+      </tr>
+      <tr>
+        <td height="26" align="right" valign="middle"><img src="../img/wz_t.gif" width="9" height="9" /></td>
+        <td height="26" align="left" valign="middle" class="STYLE7" style="border-bottom:#fff 2px dashed;"><a href="../study/s3.html">Photoshop技能提高</a></td>
+      </tr>
+      <tr>
+        <td height="31" align="right" valign="middle"><img src="../img/wz_t.gif" width="9" height="9" /></td>
+        <td height="31" align="left" valign="middle" class="STYLE7" style="border-bottom:#fff 2px dashed;"><a href="../study/s4.html">木瑾流年，安暖半生</a></td>
+      </tr>
+      <tr>
+        <td height="29" align="right" valign="middle"><img src="../img/wz_t.gif" width="9" height="9" /></td>
+        <td height="29" align="left" valign="middle" class="STYLE7" style="border-bottom:#fff 2px dashed;"><a href="../study/s5.html">Photoshop的19句经典忠告</a></td>
+      </tr>
+	 
+    </table></td>
+   
+    
+    <td width="700" rowspan="3" align="left" valign="top"><table width="100%" border="0" cellspacing="0">
+      <tr>
+        <td height="219" colspan="3" valign="bottom" background="../img/maintop.jpg"><table width="100%" border="0">
+          <tr>
+            <td height="68" colspan="9" align="center" valign="bottom"><!-- TemplateBeginEditable name="biaoti" --><span class="STYLE5">大学改变了一个人的什么</span><!-- TemplateEndEditable --></td>
+          </tr>
+          <tr>
+            <td height="21" colspan="9">&nbsp;</td>
+          </tr>
+          <tr>
+            <td width="12" height="32">&nbsp;</td>
+            <td width="386"><!-- TemplateBeginEditable name="shijian" --><span class="STYLE2">文章发表于2012.6.19 来源 www.rijigu.com</span><!-- TemplateEndEditable --></td>
+            <td width="38"><span class="STYLE2">分享</span></td>
+            <td width="39" align="center">
+			<a style="text-align:center;" href="javascript:void((function(s,d,e){try{}catch(e){}var f='http://service.weibo.com/share/share.php?',u=d.location.href,p=['url=',e(u),'&title=',e(d.title),'&appkey=2924220432'].join('');function a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=620,height=450,left=',(s.width-620)/2,',top=',(s.height-450)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent)){setTimeout(a,0)}else{a()}})(screen,document,encodeURIComponent));">
+			<div style=" cursor:pointer;"><img src="../img/follow_sina.gif" alt=分享到新浪微博 width="30" height="30" border=0 /></div>
+			</a>			</td>
+            <td width="30" align="center">
+			<a href="javascript:void(0)" onclick="postToWb();" ><img src="../img/follow_tencent.gif" alt=转播到腾讯微博 width="30" height="30" border="0" /></a>	<script type="text/javascript">
+		function postToWb(){
+			var _t = encodeURI(document.title);
+			var _url = encodeURIComponent(document.location);
+			var _appkey = encodeURI('appkey');//你从腾讯获得的appkey
+			var _pic = encodeURI('');//（例如：var _pic='图片url1|图片url2|图片url3....）
+			var _site = '#';//你的网站地址
+			var _u = 'http://v.t.qq.com/share/share.php?url='+_url+'&appkey='+_appkey+'&site='+_site+'&pic='+_pic+'&title='+_t;
+			window.open( _u,'', 'width=700, height=680, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, location=yes, resizable=no, status=no' );
+		}
+		</script>			</td>
+            <td width="38" align="center">
+			<a href="javascript:(function(){window.open('http://t.163.com/article/user/checkLogin.do?link=#&source='+'想象人生'+ '&info='+encodeURIComponent(document.title)+' '+encodeURIComponent(location.href),'_blank','width=510,height=300');})()" title="分享到网易微博"><img src="../img/follow_163.gif" alt="分享到网易微博" width="30" height="30" border="0"></a>			</td>
+            <td width="37" align="center">
+			<a title="分享到搜狐微博" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var f='http://t.sohu.com/third/post.jsp?',u=z||d.location,p=['&url=',e(u),'&title=',e(t||d.title),'&content=',c||'gb2312','&pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=660,height=470,left=',(s.width-660)/2,',top=',(s.height-470)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','','','','utf-8'));" ><img src="../img/follow_sohu.gif" alt=分享到搜狐微博 width="30" height="30" border="0" /></a>			</td>
+            <td width="39" valign="top">
+			<script type="text/javascript">
+				(function(){
+				var p = {
+				url:location.href,
+				desc:'',/*默认分享理由(可选)*/
+				summary:'',/*摘要(可选)*/
+				title:'纸屑青春_My blog',/*分享标题(可选)*/
+				site:'纸屑青春',/*分享来源 如：腾讯网(可选)*/
+				pics:'' /*分享图片的路径(可选)*/
+				};
+				var s = [];
+				for(var i in p){
+				s.push(i + '=' + encodeURIComponent(p[i]||''));
+				}
+				document.write(['<a href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?',s.join('&'),'" target="_blank" title="分享到QQ空间"><img src="../img/follow_qzone.gif" alt="分享到QQ空间" border="0" /></a>'].join(''));
+				})();
+				</script>			</td>
+            <td width="32">&nbsp;</td>
+          </tr>
+          <tr>
+            <td colspan="9"></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td width="4%" height="401" align="left" valign="top" bgcolor="#FFFFFF"><p>&nbsp;</p>          </td>
+        <td width="92%" align="left" valign="top" bgcolor="#FFFFFF"><!-- TemplateBeginEditable name="neirong" -->
+          <p class="STYLE7">文章收藏</p>
+          <p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在没有上大学之前，或许每个人都有一个美丽的大学梦，幻想着大学里的点点滴滴，憧憬着大学生活的闲适，可是当你走进那梦中的象牙塔时，你发现了什么？亦或是你还会对大学生活有那么多的憧憬么？</p>
+          <p class="STYLE7">十年寒窗，我们为了什么？是圆大学梦，是有一个好的未来，还是每天的灯红酒绿？当我们告别家乡，告别自己最亲爱的人，来到那梦中的学府时，你对自己有过哪些要求，亦或是你对自己今后的路又没有想过？</p>
+          <p class="STYLE7">还记得那天，我背着大包小包走进我即将要呆四年的地方时，我很后悔，后悔当初的一些所作所为。我在人群中找到了自己想要去的地方，交了学费，报了名，我成为了那些高中生、初中生所向往的大学生，可是谁又想到我此时内心的酸楚与不甘。</p>
+          <p class="STYLE7">经过差不多两周的军训，我想通了：的确，每个人都有自己的坎坷路，尽管艰难，但他还是会选择走下去的，就像我一样，明明可以做得更好，可是、、、、、、不管自己身处何方，只要凭借着自身的努力，我想终有一天，我会那会我所失去的一切，不仅仅是荣誉，还有我作为一个男子汉的尊严。我不会为了点点小事儿喋喋不休，更不会为了目的不择手段，我有自己的做人的原则，我但求为心无愧，对得起自己，努力不让自己受到种种诱惑。</p>
+          <p class="STYLE7">大学，在我之前，同大多数的人一样，我也幻想过，我也憧憬过。如今到了大学之后，我明白其实之前的一切真的很幼稚，然而这并不是我们的错，只能说是这个社会、这些人群变得有点快而已。我每天都告诉自己：今天我什么都没有，但是经过我的不断追求与努力之后，明天的我绝对会过得更好。这些钱显的道理每个人都懂，然而真正做到的又有几人呢？</p>
+          <p class="STYLE7">现实的大学生活给了我太多的感触，不可否认的是，大学的确能让一个人产生蜕变，到底大学——改变了一个人的什么？</p>
+          <p class="STYLE7">记得刚上大一的时候，我明显还没有从高中的状态中转变过来，每天按部就班做好自己该做的事，每天都会让自己安排得满满的，生活很充实，就是有些累。同寝室的师哥告诉我，当你们到我们的这个时候时，你就不会像现在这样谁自己完全的动起来了，当时我能做的只是微微的一笑而过，因为我相信我能够做到最好，会给自己一个满意的交代，可是如今看来，我错了，因为生活会逼着你改变，变好还是变坏，都在你的一念之间。</p>
+          <p class="STYLE7">自小习惯了灌输式教育的我们，上大学后，我们发现自己是多么的迷茫！我不明白的是：在大学将我们以前的教育方式全盘否定的同时，为什么不提出新的教育方式来改变现状呢？难道就任由学生自生自灭么？还美名其曰为：大学是靠自己才能有所成就的！不错，大学的确需要自己百般的努力，可是，我们也需要有人领进门啊！这难道就是重本合肥重本的区别么？就是这样的一个开端，就开始葬送了许多人的前程，不是他们不争气，更不是他们不努力，而是他们在努力过后却仍然得不到自己想要的，所以，在残酷的现实面前，他们选择了放纵，选择了颓废，看似每天光彩鲜艳的生活背后，其实隐藏着他们太多的无奈，灯红酒绿的日子固然好，可是当一切繁华落尽之后呢？他们剩下了什么？还有什么、、、、、、</p>
+          <p class="STYLE7">其次，大学并不是平平淡淡的，在哪看似平淡的背后，隐藏着许多的不为人知的丑陋的事实，在这里，你仿佛看到的不是你想要看到的，而是一段段虚伪的、丑陋的秘密。上大学之后的我，渐渐明白，大学并不是乐土，即使会留下一段段刻骨铭心的记忆，但那只是杯水车薪，我们想要的永远都很难得到，即使你曾经努力过，他们同大多数人一样，要的是锦上添花而非雪中送炭！</p>
+          <p class="STYLE7">如今，上了近一年大学的我们，也渐渐的学会了翘课，学会了曾经不会的种种，我们都变得不再单纯，就像老师们口中说的“老油条”，虽然有些夸张，但我们都渐渐地远离了我们的航道，曾经的梦，只是昙花一现。大学究竟给了我们什么？或许有的人会觉得这样那样的多，而对于我而言，大学给了我的仅仅是一个可以让我角逐的平台，可以让我在闲暇时可以肆无忌惮的做自己想做的事。</p>
+          <p class="STYLE7">大学，在有些人的眼中，的确是象牙塔，尽管我们是站在同一条起跑线上，可是还是有些差距是难以弥补的，不是我们自卑，抑或是其他人强怎么回事，这是不争的事实，是不需要解释的，相信很多人都明白，我们不是所谓的富二代、官二代、、、、、、、我们有的是一双可以依靠的双手，一个聪明而好学的大脑，一双可以窥视机遇的眼睛，说实话，在很多方面我们不会比有些人差劲。</p>
+          <p class="STYLE7">低调的做人，高调的做事，学会隐忍，这是我的一位老师对我说的话，如今旧事重提，我明白，在大学我们都有着同样的机会，关键是是否有人能抓住这个机会。在大学，同样会有许多的资源放在你的面前，有些人抓住了，那么，谁能说他们是失败者？如今，我坐在电脑前，双手敲打着键盘，写出这些自己浅显的看法，同样的时间，不同的人却做着不同的事情！</p>
+          <p class="STYLE7">一年的大学生活，让我不再懵懂，再也不是当初的那个“傻小子”了，我知道，或许不是最好的那个，但我会尽力做到最好，曾经，不甘的我对他们许下的诺言，我想我会一如既往的完成的！我不会退缩，更不会像一个懦夫一样的逃避。远方的那片流浪的云，等着我，我不会再错过，过错就让它永远的尘封在心底吧！不要让自己再次踏错，偏离自己远行的航向。我想四年的时光，会让我彻底的改变，至于大学的生活，尽管不如意，我还是会像以往那样一点一滴的享受，至少可以让我在若干年以后，再回首时，我不再感到惶恐和不安！让我可以去享受这份美好的回忆，也不枉我曾真真切切的走过！</p>
+          <p class="STYLE7">纪念我已的青春——大学生活一周年</p>
+        <!-- TemplateEndEditable --></td>
+        <td width="4%" align="left" valign="top" bgcolor="#FFFFFF">&nbsp;</td>
+      </tr>
+      
+    </table></td>
+  </tr>
+  <tr>  </tr>
+  <tr>  </tr>
+</table>
+
+
+
+
+<table width="100%" height="160" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="160" valign="top" background="../img/bg_footer_2.jpg"><table width="950" border="0" align="center">
+      <tr>
+        <td width="518" height="43">&nbsp;</td>
+        <td width="100">&nbsp;</td>
+        <td width="310">&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="23"  ><span class="foot_td1" ><a href="../index.html">博客首页</a>| <a href="../xuexi.html">学习</a> | <a href="../yule.html">娱乐</a> | <a href="../riji.html">日记</a> | <a href="../about.html" target="_blank">关于zhixieqingchun</a></span></td>
+        <td>&nbsp;</td>
+        <td><span class="foot_td1" >© Copyright 2012 zhixieqingchun. All rights reserved.</span></td>
+      </tr>
+      <tr>
+        <td ><span class="foot_td2" >纸屑青春所陈列内容仅作为交流学习之用而非商业用途,如有侵权,<br />
+          请联系博主,zhixieqingchun将在24小时内删除。</span></td>
+        <td>&nbsp;</td>
+        <td align="right"><img src="../img/foot.png" /></td>
+      </tr>
+      
+    </table></td>
+  </tr>
+</table>
+
+
+		
+
+</body>
+</html>

@@ -1,0 +1,211 @@
+/* CSS Document */
+body {
+	background-image: url(bg.jpg);
+	margin:0px;
+	padding:0px;
+}
+
+
+/*--首页幻灯片样式--*/
+
+
+#fW_Content {
+	DISPLAY: inline;
+	
+	WIDTH: 370px;
+	HEIGHT: 175px;
+	overflow: hidden;
+	position:absolute;
+	left: 10px;
+	top: 10px;
+}
+#fW_Content IMG {WIDTH: 370px; HEIGHT: 175px}
+
+
+/*--顶部表格--*/
+.table_top{
+ background:url(top.jpg) repeat-x center ;
+}
+.table_top_1_wb{ 
+font-family: Verdana;
+font-size: 12px;
+text-align:center;
+}
+.table_top_1_wb a{
+text-decoration: none;
+display:block;
+height:27px;
+width:85px;
+color: #FFFFFF;
+background-image:url(wb1.jpg);
+background-repeat:no-repeat;
+line-height:27px;
+
+
+}
+.table_top_1_wb a:hover{
+text-decoration: none;
+display:block;
+height:27px;
+width:85px;
+color: #FFFFFF;
+background-image:url(wb2.jpg);
+background-repeat:no-repeat;
+line-height:27px;
+}
+.table_top_1_sy{ 
+font-family: Verdana;
+font-size: 12px;
+text-align:center;
+
+}
+.table_top_1_sy a{
+text-decoration: none;
+display:block;
+height:27px;
+width:85px;
+color: #FFFFFF;
+cursor:pointer;
+background-image:url(sy1.jpg);
+background-repeat:no-repeat;
+line-height:27px;
+
+}
+.table_top_1_sy a:hover{
+text-decoration: none;
+display:block;
+height:27px;
+width:85px;
+color: #FFFFFF;
+background-image:url(sy2.jpg);
+background-repeat:no-repeat;
+line-height:27px;
+}
+.table_top_1_sc{ 
+font-family: Verdana;
+font-size: 12px;
+text-align:center;
+
+}
+.table_top_1_sc a{
+text-decoration: none;
+display:block;
+height:27px;
+width:46px;
+cursor:pointer;
+color: #FFFFFF;
+background-image:url(sc1.jpg);
+background-repeat:no-repeat;
+line-height:27px;
+
+}
+.table_top_1_sc a:hover{
+text-decoration: none;
+display:block;
+height:27px;
+width:46px;
+color: #FFFFFF;
+background-image:url(sc2.jpg);
+background-repeat:no-repeat;
+line-height:27px;
+}
+
+/*--左侧导航--*/
+.dh{
+background:url(dh_bg.png) no-repeat;
+width:150px;
+height:300px;
+}
+.dh a{
+display:block;
+color: #666;
+font-size:16px;
+text-decoration:none;
+height:29px;
+width:70px;
+line-height:29px; 
+}
+
+
+.dh a:hover{
+display:block;
+height:29px;
+width:70px; 
+background:url(dh_hover.png) no-repeat;
+color:#FFFFFF;
+text-decoration:none;
+font-size:16px;
+line-height:29px; 
+}
+/*左侧内容*/
+.zc_td1{
+background:url(zc_bg1.png) no-repeat;
+}
+.zc_td2{
+background:url(zc_xuexi.png) no-repeat;
+width:250px;
+}
+.zc_td3{
+background:url(zc_yule.png) no-repeat;
+width:250px;
+}
+
+/*--右侧内容--*/
+.quantou_hover a{
+display:block;
+width:170px;
+height:190px;
+background-image:url(quantou_hover.jpg);
+background-repeat:no-repeat;
+}
+.quantou_hover a:hover{
+
+width:170px;
+height:190px;
+background-image: url(quantou.gif);
+background-repeat:no-repeat;
+}
+
+.rj img{
+
+
+
+
+border:5px #FFFFFF solid;
+
+}
+
+.tp a{
+display:block;
+width:140px;
+height:104px;
+
+text-align:center;
+border:5px #FFFFFF solid;
+
+}
+.tp a:hover{
+display:block;
+width:140px;
+height:104px;
+
+
+text-align:center;
+border:5px #e7e7e7 solid;
+
+}
+.yule a {color: #666666; text-decoration:none }
+.yule a:hover{color:#5DB1C3; text-decoration:none}
+
+
+
+/*底部*/
+footer
+.foot_td1  {
+color:#FFFFFF;
+font-size:14px;
+}
+.foot_td1 {color: #FFFFFF;font-size:14px;}
+.foot_td1 a {color: #FFFFFF;font-size:14px; text-decoration:none }
+.foot_td1 a:hover{color:#DDEAF2;font-size:14px; text-decoration:none}
+.foot_td2 {color: #999999;font-size:12px;}
